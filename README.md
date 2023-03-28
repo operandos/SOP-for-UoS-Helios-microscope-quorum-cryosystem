@@ -1,4 +1,4 @@
-# SOP-for-UoS-Helios-microscope-quorum-cryosystem
+# SOP for UoS Helios microscope Quorum cryosystem
 ## Contents
   1. [Cryosystem set-up](https://github.com/operandos/SOP-for-UoS-Helios-microscope-quorum-cryosystem/blob/main/1.%20Cryosystem%20set-up.md)  
     1.1 SEM-chamber set-up  
