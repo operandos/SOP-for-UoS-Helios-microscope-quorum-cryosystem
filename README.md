@@ -9,6 +9,6 @@
     2.1 &nbsp; Slushing  
     2.2 &nbsp; Cryo-fracture  
     2.3 &nbsp; Transfer  
-        2.3.1 &nbsp; Into chamber  
-        2.3.2 &nbsp; Out of chamber  
+    &nbsp; 2.3.1 &nbsp; Into chamber  
+    &nbsp; 2.3.2 &nbsp; Out of chamber  
   3. &nbsp; System shut-down  
