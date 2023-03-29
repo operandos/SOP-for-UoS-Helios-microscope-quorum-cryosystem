@@ -9,6 +9,6 @@
     2.1 &nbsp; [Sample](https://github.com/operandos/SOP-for-UoS-Helios-microscope-quorum-cryosystem/blob/main/2.%20Sample.md)  
     &nbsp; 2.1.1 &nbsp; Slushing  
     &nbsp; 2.1.2 &nbsp; Cryo-fracture  
-    &nbsp; 2.1.3 &nbsp; Transfer 
+    &nbsp; 2.1.3 &nbsp; Transfer  
     2.2 &nbsp; Considerations when moving the cryostage
   3. &nbsp; [Cryosystem shut-down](https://github.com/operandos/SOP-for-UoS-Helios-microscope-quorum-cryosystem/blob/main/3.%20Cryosystem%20shutdown)  
