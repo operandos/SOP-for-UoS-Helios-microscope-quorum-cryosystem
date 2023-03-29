@@ -6,7 +6,7 @@
     1.3 &nbsp; [Filling the LN2 containers](https://github.com/operandos/SOP-for-UoS-Helios-microscope-quorum-cryosystem/blob/main/1.%20Cryosystem%20set-up.md#13-filling-the-ln2-containers)  
     1.4 &nbsp; [Cooling the cryosystem](https://github.com/operandos/SOP-for-UoS-Helios-microscope-quorum-cryosystem/blob/main/1.%20Cryosystem%20set-up.md#14-cooling-the-cryosystem)
   2. [Cryosytem operation](https://github.com/operandos/SOP-for-UoS-Helios-microscope-quorum-cryosystem/blob/main/2.%20Cryosystem%20operation.md)  
-    2.1 &nbsp; Sample(https://github.com/operandos/SOP-for-UoS-Helios-microscope-quorum-cryosystem/blob/main/2.%20Cryosystem%20operation.md#21-sample)  
+    2.1 &nbsp; [Sample](https://github.com/operandos/SOP-for-UoS-Helios-microscope-quorum-cryosystem/blob/main/2.%20Cryosystem%20operation.md#21-sample)  
     &nbsp; 2.1.1 &nbsp; Slushing  
     &nbsp; 2.1.2 &nbsp; Cryo-fracture  
     &nbsp; 2.1.3 &nbsp; Transfer  
