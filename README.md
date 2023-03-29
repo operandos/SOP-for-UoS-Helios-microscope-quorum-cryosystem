@@ -12,3 +12,5 @@
     &nbsp; 2.1.3 &nbsp; [Transfer](https://github.com/operandos/SOP-for-UoS-Helios-microscope-quorum-cryosystem/blob/main/2.%20Cryosystem%20operation.md#213-transfer)  
     2.2 &nbsp; Considerations when moving the cryostage
   3. &nbsp; [Cryosystem shut-down](https://github.com/operandos/SOP-for-UoS-Helios-microscope-quorum-cryosystem/blob/main/3.%20Cryosystem%20shutdown)  
+  4. Risk assessments & CoSHH
+  5. System specifications
